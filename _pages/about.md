@@ -16,9 +16,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I take interest in machine learning & deep learning, algorithmic game theory, mathematical optimization and aspects of mathematical control theory.
-
-I like both theory and fascinating applications.
+I take interest in machine learning & deep learning, algorithmic game theory, mathematical optimization and aspects of mathematical control theory. I like both theory and fascinating applications.
 
 I am just about to graduate with an integrated Master's Degree in Electrical and Computer Engineering from the National Technical University of Athens.
 
