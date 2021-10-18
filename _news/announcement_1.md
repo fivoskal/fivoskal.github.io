@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-12-10
 inline: true
 ---
-
-A simple inline announcement.
+Our artwork for [Applied Memetic](https://www.appliedmemetic.com/) was published in [NeurIPS Workshop on Machine Learning for Creativity and Design](
+http://www.aiartonline.com/design-2020/ilan-manouach-ioannis-siglidis-thomas-melistas-and-fivos-kalogiannis/)

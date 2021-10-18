@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-08-27
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Gave a talk on min-max optimization at the [16th Athens Colloquium on Algorithms and Complexity](https://www.corelab.ntua.gr/acac21/)

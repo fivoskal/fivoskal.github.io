@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">National Technical University of Athens</a>
+description: <a href="https://www.ece.ntua.gr/en">National Technical University of Athens</a>
 
 profile:
   align: right
@@ -12,15 +12,15 @@ profile:
     <!-- <p>123 your address street</p> -->
     <!-- <p></p> -->
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I take interest in machine learning & deep learning, algorithmic game theory and mathematical optimization. I like theory and fascinating applications.
+I take interest in machine learning & deep learning, algorithmic game theory, mathematical optimization and aspects of mathematical control theory. I like theory and fascinating applications.
 
 I am just about to graduate with an integrated Master's Degree in Electrical and Computer Engineering from the National Technical University of Athens.
 
-I grew up in a small island of the North Aegean sea, Lemnos.
+I grew up in a small island of the North Aegean Sea, [Lemnos](https://en.wikipedia.org/wiki/Lemnos).
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
