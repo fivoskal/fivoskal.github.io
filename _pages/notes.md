@@ -1,8 +1,8 @@
 ---
 layout: page
 title: notes
-permalink: /projects/
-description: Rudimentary notes on some topics I have studied. (Excuse any errata and maybe let me know through an email 🙂 )
+permalink: /notes/
+description: Rudimentary notes on some topics I have studied.<br>(Excuse any errata and maybe let me know through email 🙂)
 nav: true
 horizontal: false
 ---
