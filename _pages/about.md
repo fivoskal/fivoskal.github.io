@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: /ˈfi.vos/  /kaloˈʝanis/<br><a href="https://www.ece.ntua.gr/en">National Technical University of Athens</a>
+description: /ˈfi.vos/  /kaloˈʝanis/<br><a href="https://www.ics.uci.edu/">UC Irvine</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 I take interest in machine learning & deep learning, algorithmic game theory, optimization theory and aspects of mathematical control theory. I like both theory and fascinating applications.
 
 Starting September 2022, I start a PhD in Computer Science at [UC Irvine](https://www.ics.uci.edu/) advised by prof. [Ioannis Panageas](https://panageas.github.io/).
-Prior to that, I got my integrated Master's Degree in Electrical and Computer Engineering from the National Technical University of Athens.
+Prior to that, I got my integrated Master's Degree in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ece.ntua.gr/en).
 
 I grew up in a remote island of the North Aegean Sea, [Lemnos](https://en.wikipedia.org/wiki/Lemnos).
 
