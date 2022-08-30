@@ -2,21 +2,21 @@
 layout: about
 title: about
 permalink: /
-description: /ˈfi.vos/  /kaloˈʝanis/<br><a href="https://www.ics.uci.edu/">University of California, Irvine</a>
+description: Φοίβος Καλογιάννης<br>/ˈfi.vos/  /kaloˈʝanis/<br><a href="https://www.ics.uci.edu/">University of California, Irvine</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+  <!-- address: >
     <!-- <p>555 your office number</p> -->
     <!-- <p>123 your address street</p> -->
-    <!-- <p></p> -->
+    <!-- <p></p> --> -->
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I take interest in machine learning, algorithmic game theory, optimization theory and aspects of mathematical control theory. I like both theory and fascinating applications.
+I take interest in algorithmic game theory, machine learning, optimization theory and aspects of control theory. I like both theory and fascinating applications.
 
 Starting September 2022, I start a PhD in Computer Science at UC Irvine advised by prof. [Ioannis Panageas](https://panageas.github.io/).
 Prior to that, I got my integrated Master's Degree in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ece.ntua.gr/en).
