@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
+description:
 nav: true
 years: [2021, 2022]
 ---
@@ -16,11 +16,3 @@ years: [2021, 2022]
     <a href="https://arxiv.org/abs/2111.04178">Efficiently Computing Nash Equilibria in Adversarial Team Markov Games</a><br>Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Vaggos Chatziafratis, Stelios Stavroulakis
   </li>
 </ul>
-<!-- <div class="publications">
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div> -->
