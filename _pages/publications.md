@@ -4,15 +4,22 @@ permalink: /publications/
 title: publications
 description:
 nav: true
-years: [2021, 2022]
+years: [2021, 2023]
 ---
 
 # Preprints
 <ul>
   <li>
-    <a href="https://arxiv.org/abs/2111.04178">Teamwork makes von Neumann work: Min-Max Optimization in Two-Team Zero-Sum Games</a><br>Fivos Kalogiannis, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis
+    <a href="https://arxiv.org/abs/2301.02129">Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games</a><br>Ioannis Anagnostides, Fivos Kalogiannis, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Stephen McAleer
+  </li>
+</ul>
+
+# Conference publications
+<ul>
+  <li>
+    <a href="https://arxiv.org/abs/2111.04178">Towards convergence to Nash equilibria in two-team zero-sum games</a><br>(ICLR 2023)<br>Fivos Kalogiannis, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis
   </li>
   <li>
-    <a href="https://arxiv.org/abs/2111.04178">Efficiently Computing Nash Equilibria in Adversarial Team Markov Games</a><br>Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Vaggos Chatziafratis, Stelios Stavroulakis
+    <a href="https://arxiv.org/abs/2111.04178">Efficiently Computing Nash Equilibria in Adversarial Team Markov Games</a><br>(ICLR 2023 -- notable 5%)<br>Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Vaggos Chatziafratis, Stelios Stavroulakis
   </li>
 </ul>
