@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I take interest in algorithmic game theory, machine learning, optimization theory and aspects of control theory. I like both theory and fascinating applications.
 
-Starting September 2022, I start a PhD in Computer Science at UC Irvine advised by prof. [Ioannis Panageas](https://panageas.github.io/).
+I am a first year PhD student in Computer Science at UC Irvine advised by prof. [Ioannis Panageas](https://panageas.github.io/).
 Prior to that, I got my integrated Master's Degree in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ece.ntua.gr/en).
 
 I grew up in a remote island of the North Aegean Sea, [Lemnos](https://en.wikipedia.org/wiki/Lemnos).
