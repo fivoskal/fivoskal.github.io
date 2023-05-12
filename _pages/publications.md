@@ -9,8 +9,7 @@ years: [2021, 2023]
 
 # Preprints
 <ul>
-  <li>
-    <a href="https://arxiv.org/abs/2301.02129">Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games</a><br>Ioannis Anagnostides, Fivos Kalogiannis, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Stephen McAleer
+  <li> TBA
   </li>
 </ul>
 
@@ -21,5 +20,8 @@ years: [2021, 2023]
   </li>
   <li>
     <a href="https://arxiv.org/abs/2111.04178">Efficiently Computing Nash Equilibria in Adversarial Team Markov Games</a><br>(ICLR 2023 -- notable 5%)<br>Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Vaggos Chatziafratis, Stelios Stavroulakis
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2301.02129">Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games</a><br>(EC 2023)<br>Ioannis Anagnostides, Fivos Kalogiannis, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Stephen McAleer
   </li>
 </ul>
