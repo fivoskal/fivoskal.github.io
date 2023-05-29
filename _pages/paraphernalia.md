@@ -12,7 +12,7 @@ display_categories: [fun]
 # Creativity & ML
 <ul>
   <li>
-  Our artwork (with Ilan Manouach, Ioannis Siglidis, Thomas Melistas)for <a href="https://www.appliedmemetic.com/" target="_blank">Applied Memetic</a>
+  Our artwork (with Ilan Manouach, Ioannis Siglidis, Thomas Melistas) for <a href="https://www.appliedmemetic.com/" target="_blank">Applied Memetic</a>
   was published in
   <a href="http://www.aiartonline.com/design-2020/ilan-manouach-ioannis-siglidis-thomas-melistas-and-fivos-kalogiannis/" target="_blank">NeurIPS Workshop on Machine Learning for Creativity and Design</a>
   </li>
