@@ -10,7 +10,7 @@ years: [2021, 2023]
 # Preprints
 <ul>
   <li>
-    <a href="https://arxiv.org/abs/2111.04178">Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria</a><br>Fivos Kalogiannis, Ioannis Panageas
+    <a href="https://arxiv.org/abs/2305.14329">Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria</a><br>Fivos Kalogiannis, Ioannis Panageas
   </li>
 </ul>
 
