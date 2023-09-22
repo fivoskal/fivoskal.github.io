@@ -17,7 +17,7 @@ years: [2021, 2023]
 # Conference publications
 <ul>
   <li>
-    <a href="https://arxiv.org/abs/2305.14329">Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria<br>(NeurIPS 2023)<br></a><br>Fivos Kalogiannis, Ioannis Panageas
+    <a href="https://arxiv.org/abs/2305.14329">Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria<br>(NeurIPS 2023)</a><br>Fivos Kalogiannis, Ioannis Panageas
   </li>
   <li>
     <a href="https://arxiv.org/abs/2111.04178">Towards convergence to Nash equilibria in two-team zero-sum games</a><br>(ICLR 2023)<br>Fivos Kalogiannis, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis
