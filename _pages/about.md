@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I take an interest in (multi-)agent reinforcement learning theory, algorithmic game theory, optimization, and machine learning theory. I like both theory and fascinating applications.
 
-I am about to move to UC San Diego as a CS PhD student advised by prof. Mikhail Belkin. Previously, I got my MS in Computer Science at UC Irvine advised by prof. Ioannis Panageas.
+I am a CS PhD student at UC San Diego advised by prof. [Mikhail Belkin](http://misha.belkin-wang.org/). Previously, I got my MS in Computer Science at UC Irvine advised by prof. [Ioannis Panageas](https://panageas.github.io/) where I worked extensively on algorithmic game theory and multi-agent reinforcement learning.
 Even before that, I did my undergrad in Electrical and Computer Engineering at the [National Technical University of Athens](https://www.ece.ntua.gr/en).
 
 I grew up on a remote island of the North Aegean Sea, [Lemnos](https://en.wikipedia.org/wiki/Lemnos).
