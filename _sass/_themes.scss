@@ -45,3 +45,28 @@ html[data-theme='dark'] {
     display : none;
   }
 }
+
+// ─────────────────────────────────────────────────────────────────
+//  Dark‐mode overrides: coal-gray background + gold/yellow links
+// ─────────────────────────────────────────────────────────────────
+@media (prefers‐color‐scheme: dark) {
+  /* 1) Force a dark coal-gray page background */
+  body,
+  .site-wrapper,       /* add any other container that sets its own background */
+  .content-wrapper     /* e.g. .post-content, .page-inner, etc., if needed */
+  {
+    background: #2E2E2E !important;
+  }
+
+  /* 2) Force all links (and visited links) to rgb(204,153,0) */
+  a,
+  a:visited {
+    color: rgb(204, 153, 0) !important;
+  }
+
+  /* 3) (Optional) Slightly brighter hover/focus state */
+  a:hover,
+  a:focus {
+    color: rgb(220, 170, 20) !important;
+  }
+}
