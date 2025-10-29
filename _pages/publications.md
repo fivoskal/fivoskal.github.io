@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description:
 nav: true
-years: [2021, 2024]
+years: [2021, 2025]
 ---
 
 # Preprints
@@ -16,6 +16,13 @@ years: [2021, 2024]
 
 # Conference publications
 <ul>
+    </li>
+  <li>
+    Policy Gradient Methods Converge Globally in Imperfect-Information Extensive-Form Games<br>(NeurIPS 2025; link soon)<br>Fivos Kalogiannis, Gabriele Farina
+  </li>
+    <li>
+    <a href="https://arxiv.org/abs/2506.16120">Solving Zero-Sum Convex Markov Games</a><br>(ICML 2025)<br>Fivos Kalogiannis, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Ian Gemp, Georgios Piliouras
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2410.05673">Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem</a><br>(NeurIPS 2024)<br>Fivos Kalogiannis, Jingming Yan, Ioannis Panageas
   </li>
