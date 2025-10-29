@@ -16,7 +16,6 @@ years: [2021, 2025]
 
 # Conference publications
 <ul>
-    </li>
   <li>
     Policy Gradient Methods Converge Globally in Imperfect-Information Extensive-Form Games<br>(NeurIPS 2025; link soon)<br>Fivos Kalogiannis, Gabriele Farina
   </li>
