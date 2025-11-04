@@ -17,7 +17,7 @@ years: [2021, 2025]
 # Conference publications
 <ul>
   <li>
-    Policy Gradient Methods Converge Globally in Imperfect-Information Extensive-Form Games<br>(NeurIPS 2025; link soon)<br>Fivos Kalogiannis, Gabriele Farina
+    <a href="https://openreview.net/forum?id=VYY5sG4EMm&referrer=%5BAuthor+Console%5D%28%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions%29">Policy Gradient Methods Converge Globally in Imperfect-Information Extensive-Form Games</a><br>(NeurIPS 2025)<br>Fivos Kalogiannis, Gabriele Farina
   </li>
     <li>
     <a href="https://arxiv.org/abs/2506.16120">Solving Zero-Sum Convex Markov Games</a><br>(ICML 2025)<br>Fivos Kalogiannis, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Ian Gemp, Georgios Piliouras
