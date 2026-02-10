@@ -1,7 +1,7 @@
 ---
 layout: page
-title: paraphernalia
-permalink: /paraphernalia/
+title: miscellanea
+permalink: /miscellanea/
 description: My interdisciplinary interests. Creativity & ML.
 nav: true
 horizontal: false
