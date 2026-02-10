@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 I am broadly interested in optimization theory for machine learning, deep learning, and (multi-agent) reinforcement-learning.
 
 I am a CS PhD student at UC San Diego advised by Prof. [Mikhail Belkin](http://misha.belkin-wang.org/) focusing on optimization for machine learning. Previously, I earned my MS in Computer Science at UC Irvine advised by Prof. [Ioannis Panageas](https://panageas.github.io/) where I worked extensively on algorithmic game theory, multi-agent reinforcement learning, and optimization.
-Before that, I did my undergrad in Electrical and Computer Engineering at the [National Technical University of Athens](https://www.ece.ntua.gr/en).
+Before that, I did my undergrad in Electrical and Computer Engineering at the National Technical University of Athens.
 
 I grew up on [Lemnos](https://en.wikipedia.org/wiki/Lemnos), a remote island of the North Aegean Sea.
 
