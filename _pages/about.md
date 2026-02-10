@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am broadly interested in optimization theory for machine learning, (multi-agent) reinforcement-learning, machine learning theory, and algorithmic game theory. I enjoy working on both theory and its real-world applications.
+I am broadly interested in optimization theory for machine learning, deep learning, and (multi-agent) reinforcement-learning.
 
 I am a CS PhD student at UC San Diego advised by Prof. [Mikhail Belkin](http://misha.belkin-wang.org/) focusing on optimization for machine learning. Previously, I earned my MS in Computer Science at UC Irvine advised by Prof. [Ioannis Panageas](https://panageas.github.io/) where I worked extensively on algorithmic game theory, multi-agent reinforcement learning, and optimization.
 Even before that, I did my undergrad in Electrical and Computer Engineering at the [National Technical University of Athens](https://www.ece.ntua.gr/en).
