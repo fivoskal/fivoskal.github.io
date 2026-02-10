@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Φοίβος Καλογιάννης<br><span title="Fee-vos Kah-lo-YAH-niss">/ˈfi.vos/ /kaloˈʝanis/</span><br><a href="https://cse.ucsd.edu/">UC San Diego</a>
+description: Φοίβος Καλογιάννης<br><span title="Fee-vos Kah-lo-YAH-niss">/ˈfi.vos/ /ka.loˈʝa.nis/</span><br><a href="https://cse.ucsd.edu/">UC San Diego</a>
 
 profile:
   align: right
