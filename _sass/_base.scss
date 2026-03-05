@@ -4,6 +4,10 @@
 
 // Typography
 
+body {
+  font-family: Garamond, "EB Garamond", serif;
+}
+
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
@@ -190,12 +194,25 @@ blockquote {
 
 // News
 
+.news h2 {
+  display: flex;
+  align-items: center;
+  &::after {
+    content: '';
+    flex: 1;
+    margin-left: 0.5em;
+    border-bottom: 1px solid var(--global-text-color);
+    opacity: 0.3;
+  }
+}
+
 .news table td {
-  font-size: 1rem;
+  font-size: 0.85rem;
   color: var(--global-text-color);
 }
 
 .news table th {
+  font-size: 0.85rem;
   color: var(--global-text-color);
 }
 
@@ -206,6 +223,9 @@ blockquote {
   .contact-icons {
     font-size: 4rem;
     a {
+      .fa-envelope, .ai-google-scholar, .fa-linkedin {
+        font-size: 3.2rem;
+      }
       i::before {
         color: var(--global-text-color);
         -webkit-transition: all 0.2s ease-in-out;
