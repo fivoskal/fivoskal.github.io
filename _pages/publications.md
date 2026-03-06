@@ -7,13 +7,6 @@ nav: true
 years: [2021, 2025]
 ---
 
-# Preprints
-<ul>
-  <li>
-    TBA 
-  </li>
-</ul>
-
 # Conference publications
 <ul>
   <li>
@@ -36,5 +29,12 @@ years: [2021, 2025]
   </li>
   <li>
     <a href="https://arxiv.org/abs/2301.02129">Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games</a><br>(EC 2023)<br>Ioannis Anagnostides, Fivos Kalogiannis, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Stephen McAleer
+  </li>
+</ul>
+
+# Preprints
+<ul>
+  <li>
+    TBA
   </li>
 </ul>
